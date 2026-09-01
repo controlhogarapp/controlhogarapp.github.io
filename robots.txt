@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://controlhogarapp.github.io/sitemap.xml
